@@ -59,25 +59,5 @@ namespace Music_Player.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _408_4088745_red_close_icon_png {
-            get {
-                object obj = ResourceManager.GetObject("408-4088745_red-close-icon-png", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap black_circle_close_button_png_5 {
-            get {
-                object obj = ResourceManager.GetObject("black-circle-close-button-png-5", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
